@@ -1,0 +1,12 @@
+10 random 4 digit numbers generated from random.org to use as the seeds
+
+3446
+2005
+3267
+6873
+9782
+1323
+7883
+0475
+2036
+7649
